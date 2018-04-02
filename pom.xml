@@ -22,13 +22,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-<distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>osboxes-snapshots</name>
-        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
-</distributionManagement>
 <!--distributionManagement>
     <repository>
        <id>bintray-sanjeev-test-org-maven</id>
